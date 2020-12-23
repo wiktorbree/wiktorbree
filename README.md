@@ -6,12 +6,9 @@
 - 📅 2021 Goals: Finish Flappy Bird and make more games and also useless projects
 - ⚡ Fun fact: I don't do crack 👁👄👁
 
-</br>
 
 ### Spotify is playing this shit 🎧
 NOTHING B*TCH
-
-</br>
 
 ### Connect with me:
 [<img align="left" alt="Wiktor Bree | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
