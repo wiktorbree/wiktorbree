@@ -17,7 +17,6 @@ NOTHING B*TCH
 
 </br>
 <sup><sup><sup>I don't know why the f*ck you want to do this but here you go</sup></sup></sup>
-s
 </br>
 
 ### Languages and Tools:
