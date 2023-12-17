@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on *auto decision making project in Python*
 
-- 🌱 I’m currently learning *Python, JavaScript, GoogleScript, UML*
+- 🌱 I’m currently learning *Python, JavaScript, GoogleAppsScript, UML*
 
 - 📫 How to reach me *On X.com via wiktorbree*
 
