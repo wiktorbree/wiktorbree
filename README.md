@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on *a platformer game project in Python using pygame-ce*
 
-- 🌱 I’m currently learning *Python, JavaScript*
+- 🌱 I’m currently learning *Game Design*
 
 - 📫 How to reach me *On X.com via wiktorbree*
 
