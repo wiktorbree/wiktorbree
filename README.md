@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Wiktor</h1>
 <h3 align="center">Some dude studying mobile application engineering in Poland</h3>
 
-- 🔭 I’m currently working on *auto decision making project in Python*
+- 🔭 I’m currently working on *a platformer game project in Python using pygame-ce*
 
-- 🌱 I’m currently learning *Python, JavaScript, GoogleAppsScript, UML*
+- 🌱 I’m currently learning *Python, JavaScript*
 
 - 📫 How to reach me *On X.com via wiktorbree*
 
