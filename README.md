@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a chemistry project in Java.<br>👯 I’m looking to collaborate on projects for some GameJams.<br>🌱 I’m currently learning Java and Web Design<br>⚡ Fun fact: I'm a huge car enthusiast and I own a project car.
+🔭 I’m currently working on a Game Engine in Java.<br>👯 I’m looking to collaborate on projects for some GameJams.<br>🌱 I’m currently learning Java and Web Design<br>⚡ Fun fact: I'm a huge car enthusiast and I own a project car.
 
 
 ## 🌐 Socials:
