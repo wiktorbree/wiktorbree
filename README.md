@@ -30,8 +30,11 @@ I like making video games (I've used PyGame, Godot and Unity) and filming stuff
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/wiktorbramer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
+<ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden;">
+    <li style="display: inline-block; margin-right: 0.25rem; padding: 0; list-style: none;">
+        <a href="https://www.buymeacoffee.com/wiktorbramer">
+            <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+        </a>
+    </li>
 </ul>
+
