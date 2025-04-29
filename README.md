@@ -7,7 +7,7 @@ Computer Science Student
 I like making video games (I've used PyGame, Godot and Unity) and filming stuff  
 
 * 🌍  I'm based in Wrocław, Poland
-* 🧠  I'm learning Web Design & Data Analysis 
+* 🧠  I'm learning UI/UX Design & Swift
 * 🤝  I'm open to collaborating on some GameJams 
 * ⚡  I do flips and get hurt in the process
 
