@@ -5,7 +5,7 @@
 📱 iOS Developer  
 🎮 PyGame-CE enjoyer  
 
-- ⚙️ I use daily: `.swift`, `.py`, `.fig`, `git`, `.md`
+- ⚙️ I use daily: `.swift`, `.py`, `.fig`, `git`
 - 💻 Mostly active on [**X / Twitter**](https://x.com/WiktorBree)
 - 🌍 Based in Wrocław, Poland
 - 🧠 Currently learning: UI/UX Design & iOS App Development
